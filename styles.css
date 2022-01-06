@@ -1,0 +1,13 @@
+body {
+  background-color: turquoise;
+}
+
+.container {
+  background-color: tomato;
+  padding: 10px;
+  color: white;
+  margin-top: 100px;
+}
+table {
+  color: white;
+}
